@@ -1,5 +1,6 @@
 # Twitter_Crawler
 - 트위터 API tweepy 이용 유저 및 키워드 검색을 통한 정보 크롤러
+- [블로그 바로가기](https://6mini.github.io/did%20unknown/2021/09/27/tweepy/)
 
 ## How to Use
 
